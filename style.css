@@ -286,10 +286,8 @@ h5 {
 #commentBox{
     background-color: rgb(25, 33, 41);
     color: rgb(255,255,255);
-    align-content: center;
-    align-items: center;
     
-         
+            
 }
 
 .commentForm{
@@ -303,16 +301,17 @@ h5 {
     align-items: center;
     width: 250px;
     
+    
 }
 
 .border-form{
     box-sizing: content-box;
     border: solid rgb(67, 163, 230) 12px;
-    padding: 5px;
     width: 25%;
     justify-content: center;
     flex-direction:column;
     margin: auto;
+    padding: 25px;
 }
 
 .submit{
